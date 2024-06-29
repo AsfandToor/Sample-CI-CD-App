@@ -29,7 +29,7 @@ package-lock.json
 yarn.lock
 
 # Testing
-# cypress/
+cypress/
 
 # Miscellaneous
 .DS_Store
